@@ -1,0 +1,29 @@
+{
+  "javaEcommerceApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Luo Product",
+        "createOrEditLabel": "Luo tai muokkaa Product",
+        "notFound": "Product ei löytynyt"
+      },
+      "created": "Uusi Product on luotu, id: {{ param }}",
+      "updated": "Product on päivitetty, id: {{ param }}",
+      "deleted": "Product on päivitetty, id: {{ param }}",
+      "delete": {
+        "question": "Haluatko varmasti poistaa Product {{ id }}?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "thesize": "Thesize",
+      "image": "Image",
+      "productCategory": "Product Category"
+    }
+  }
+}

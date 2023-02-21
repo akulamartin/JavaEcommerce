@@ -1,0 +1,29 @@
+{
+  "javaEcommerceApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Product қўшиш",
+        "createOrEditLabel": "Productни таҳрирлаш",
+        "notFound": "No Products found"
+      },
+      "created": "Product {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Product сақланди.",
+      "deleted": "{{ param }}- Product ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Productни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "thesize": "Thesize",
+      "image": "Image",
+      "productCategory": "Product Category"
+    }
+  }
+}

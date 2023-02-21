@@ -1,0 +1,32 @@
+{
+  "javaEcommerceApp": {
+    "invoice": {
+      "home": {
+        "title": "Invoices",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Crear novo Invoice",
+        "createOrEditLabel": "Crear ou editar Invoice",
+        "notFound": "No Invoices found"
+      },
+      "created": "Un novo Invoice foi creado co identificador {{ param }}",
+      "updated": "Un Invoice foi actualizado co identificador {{ param }}",
+      "deleted": "Un Invoice foi eliminado co identificador {{ param }}",
+      "delete": {
+        "question": "Seguro que desexa eliminar Invoice {{ id }}?"
+      },
+      "detail": {
+        "title": "Invoice"
+      },
+      "id": "ID",
+      "code": "Code",
+      "date": "Date",
+      "details": "Details",
+      "status": "Status",
+      "paymentMethod": "Payment Method",
+      "paymentDate": "Payment Date",
+      "paymentAmount": "Payment Amount",
+      "shipment": "Shipment",
+      "order": "Order"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "javaEcommerceApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Стварыць новы Product",
+        "createOrEditLabel": "Стварыць або адрэдагаваць Product",
+        "notFound": "No Products found"
+      },
+      "created": "Новы Product створан з ідэнтыфікатарам {{ param }}",
+      "updated": "Product абноўлен з ідэнтыфікатарам {{ param }}",
+      "deleted": "Product выдален з ідэнтыфікатарам {{ param }}",
+      "delete": {
+        "question": "Вы ўпэўнены, што жадаеце выдаліць Product {{ id }}?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "thesize": "Thesize",
+      "image": "Image",
+      "productCategory": "Product Category"
+    }
+  }
+}

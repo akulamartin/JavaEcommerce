@@ -1,0 +1,29 @@
+{
+  "javaEcommerceApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "නව Product එකක් සාදන්න",
+        "createOrEditLabel": "Product සාදන්න හෝ සංස්කරණය කරන්න",
+        "notFound": "Products හමු නොවීය"
+      },
+      "created": "{{ param }} හඳුනාගැනීමෙන් නව Product සාදනු ලැබේ",
+      "updated": "{{ param }} හඳුනාගැනීමෙන් Product යාවත්කාලීන වේ",
+      "deleted": "{{ param }} හඳුනාගැනීමෙන් Product මකා දමනු ලැබේ",
+      "delete": {
+        "question": "Product {{ id }} මකා දැමීමට ඔබට විශ්වාසද?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "thesize": "Thesize",
+      "image": "Image",
+      "productCategory": "Product Category"
+    }
+  }
+}

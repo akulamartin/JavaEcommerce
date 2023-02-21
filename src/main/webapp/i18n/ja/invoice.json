@@ -1,0 +1,32 @@
+{
+  "javaEcommerceApp": {
+    "invoice": {
+      "home": {
+        "title": "Invoices",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Invoice を追加",
+        "createOrEditLabel": "Invoiceを追加または編集",
+        "notFound": "No Invoices found"
+      },
+      "created": "A new Invoice is created with identifier {{ param }}",
+      "updated": "A Invoice is updated with identifier {{ param }}",
+      "deleted": "A Invoice is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Invoice {{ id }}を削除してもよろしいですか？"
+      },
+      "detail": {
+        "title": "Invoice"
+      },
+      "id": "ID",
+      "code": "Code",
+      "date": "Date",
+      "details": "Details",
+      "status": "Status",
+      "paymentMethod": "Payment Method",
+      "paymentDate": "Payment Date",
+      "paymentAmount": "Payment Amount",
+      "shipment": "Shipment",
+      "order": "Order"
+    }
+  }
+}

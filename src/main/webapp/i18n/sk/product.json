@@ -1,0 +1,29 @@
+{
+  "javaEcommerceApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Pridať Product",
+        "createOrEditLabel": "Pridať alebo upraviť Product",
+        "notFound": "No Products found"
+      },
+      "created": "Bol vytvorený potomok entity Product s identifikátorom {{ param }}",
+      "updated": "Potomok entity Product s identifikátorom {{ param }} bol upravený.",
+      "deleted": "Potomok entity Product s identifikátorom {{ param }} bol vymazaný.",
+      "delete": {
+        "question": "Ste si istý, že chcete vymazať Product {{ id }}?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "name": "Name",
+      "description": "Description",
+      "price": "Price",
+      "thesize": "Thesize",
+      "image": "Image",
+      "productCategory": "Product Category"
+    }
+  }
+}
